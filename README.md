@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 个人博客
-GitHub： [https://lw1243925457.github.io/blog/](https://lw1243925457.github.io/blog/)
-
+[![https://github.com/lw1243925457/lw1243925457](https://github-readme-stats.vercel.app/api?username=lw1243925457)]()
