@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lw1243925457/lw1243925457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**freedom-xiao007/freedom-xiao007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![https://github.com/lw1243925457/lw1243925457](https://github-readme-stats.vercel.app/api?username=lw1243925457)]()
+[![https://github.com/freedom-xiao007/freedom-xiao007](https://github-readme-stats.vercel.app/api?username=freedom-xiao007)]()
